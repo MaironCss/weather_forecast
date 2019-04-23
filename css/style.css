@@ -1,0 +1,226 @@
+*{
+	transition: all .1s ease-in;
+}
+
+body{
+	font-family: "Lucida Sans Unicode" ,sans-serif;
+	margin: 0;
+	width: 100%;
+	height: 100%;
+	background-color:#2b81ac;
+}
+main{
+	background-color:#3399cc;
+	margin: 25px;
+	height: 925px;
+}
+header{
+	padding:36px;
+	color:#fff;
+	width: 983px;
+	margin:auto;
+	
+}
+ul{
+	 list-style-type:none;
+	margin: 0;
+	padding: 0;
+	font-size: 0;
+}
+li{
+	margin:0;
+	padding: 0;
+	align-items: center;
+	padding: 30px;
+	
+}
+span{
+	color:#bfdfef;
+}
+h1{
+	font-size: 30px;
+	font-family: Lucida Sans Unicode, sans-serif;
+}
+h2{
+	font-family: Lucida Sans Unicode, sans-serif;
+	font-size:22px;
+	color: #FFF;
+}
+footer{
+	padding-top: 36px;
+	width: 983px;
+	margin:auto;
+}
+.main{
+	border:2px solid #fff;
+	height: 603px;
+	width: 983px;
+	margin: auto;
+	-webkit-box-sizing: border-box;
+	   -moz-box-sizing: border-box;
+	        box-sizing: border-box;
+	padding: 0;
+	
+
+	
+}
+
+
+.first-item{
+	display: inline-block;
+	-webkit-box-sizing: border-box;
+	   -moz-box-sizing: border-box;
+	        box-sizing: border-box;
+	width: 50%;
+	border:2px solid #fff;
+	text-align: center;
+	height: 150px ;
+	font-size:24px;
+	background-color: #3399cc;
+	color:#fff;
+	
+}
+.second-item{
+	display: inline-block;
+	-webkit-box-sizing: border-box;
+	   -moz-box-sizing: border-box;
+	        box-sizing: border-box;
+	width: 25%;
+	border:2px solid #fff;
+	text-align: center;
+	height: 150px ;
+	font-size:24px;
+	background-color: #33cccc;
+	color:#fff;
+}
+.third-item{
+	display: inline-block;
+	-webkit-box-sizing: border-box;
+	   -moz-box-sizing: border-box;
+	        box-sizing: border-box;
+	width: 25%;
+	border:2px solid #fff;
+	text-align: center;
+	height: 150px ;
+	font-size:24px;
+	background-color: #996699;
+	color:#fff;
+}
+.fourth-item{
+	display: inline-block;
+	-webkit-box-sizing: border-box;
+	   -moz-box-sizing: border-box;
+	        box-sizing: border-box;
+	width: 25%;
+	border:2px solid #fff;
+	text-align: center;
+	height: 150px ;
+	font-size:24px;
+	background-color: #c24747;
+	color:#fff;
+}
+.fifth-item{
+	display: inline-block;
+	-webkit-box-sizing: border-box;
+	   -moz-box-sizing: border-box;
+	        box-sizing: border-box;
+	width: 25%;
+	border:2px solid #fff;
+	text-align: center;
+	height: 150px ;
+	font-size:24px;
+	background-color: #e2674a;
+	color:#fff;
+}
+.sixth-item{
+	display: inline-block;
+	-webkit-box-sizing: border-box;
+	   -moz-box-sizing: border-box;
+	        box-sizing: border-box;
+	width: 25%;
+	border:2px solid #fff;
+	text-align: center;
+	height: 150px ;
+	font-size:24px;
+	background-color: #ffcc66;
+	color:#fff;
+}
+.seventh-item{
+	display: inline-block;
+	-webkit-box-sizing: border-box;
+	   -moz-box-sizing: border-box;
+	        box-sizing: border-box;
+	width: 25%;
+	border:2px solid #fff;
+	text-align: center;
+	height: 150px ;
+	font-size:24px;
+	background-color: #99cc99;
+	color:#fff;
+}
+.eighth-item{
+	display: inline-block;
+	-webkit-box-sizing: border-box;
+	   -moz-box-sizing: border-box;
+	        box-sizing: border-box;
+	width: 25%;
+	border:2px solid #fff;
+	text-align: center;
+	height: 150px ;
+	font-size:24px;
+	background-color: #669999;
+	color:#fff;
+}
+.ninth-item{
+	display: inline-block;
+	-webkit-box-sizing: border-box;
+	   -moz-box-sizing: border-box;
+	        box-sizing: border-box;
+	width: 50%;
+	border:2px solid #fff;
+	text-align: center;
+	height: 150px ;
+	font-size:24px;
+	background-color: #cc6699;
+	color:#fff;
+}
+.tenth-item{
+	display: inline-block;
+	-webkit-box-sizing: border-box;
+	   -moz-box-sizing: border-box;
+	        box-sizing: border-box;
+	width: 25%;
+	border:2px solid #fff;
+	text-align: center;
+	height: 150px ;
+	font-size:24px;
+	background-color: #339966;
+	color:#fff;
+}
+.eleventh-item{
+	display: inline-block;
+	-webkit-box-sizing: border-box;
+	   -moz-box-sizing: border-box;
+	        box-sizing: border-box;
+	width: 100%;
+	border:2px solid #fff;
+	text-align: center;
+	height: 150px ;
+	font-size:24px;
+	background-color: #666699;
+	color:#fff;
+}
+
+.main:hover{
+
+	cursor: pointer;	
+}
+ul:hover > li{
+	opacity: 0.5;
+}
+ul li:hover{
+	opacity: 1;
+}
+ul li:active{
+	background-color:#fff;
+}
